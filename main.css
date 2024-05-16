@@ -1,0 +1,27 @@
+.q{
+    border-top: 2px solid red;
+    border-radius: 15px;
+    width: 350px;
+    background-color: white;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+body{
+    background-color: wheat;
+}
+#q{
+    color: red;
+}
+#w{
+    color: red;
+    font-size: 69px;
+}
+
+#p{
+    border: 2px solid  blue;
+    border-radius: 15px;
+    font-size: 30px;
+    background-color: white;
+}
